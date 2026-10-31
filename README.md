@@ -2,7 +2,7 @@
 
 ### Mechatronics Engineering | Robotics | Industrial Automation | PLC & Control Systems | Manufacturing Operations
 
-I'm a Mechatronics Engineer with about 5 years of professional experience in manufacturing, industrial automation, maintenance and product development environments and hold a First Class BEng (Hons) degree in Mechatronics Engineering from the University of Wolverhampton, UK.
+I'm a Mechatronics Engineer with about 5 years of professional experience in manufacturing, industrial automation, maintenance and product development environments and hold a BEng (Hons) degree in Mechatronics Engineering from the University of Wolverhampton, UK.
 
 I enjoy designing, developing, and improving engineering systems through robotics, automation, control engineering, and simulation.
 
